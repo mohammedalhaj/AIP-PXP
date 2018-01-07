@@ -1,4 +1,4 @@
-Scenario:  TC-009-File Type- Integral Multimedia
+Scenario:  TC-033- Upload file-File Type- Integral Multimedia
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

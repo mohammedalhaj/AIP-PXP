@@ -1,4 +1,4 @@
-Scenario: TC-020-Verify the "Merge" button function
+Scenario: TC-020- Upload file-Verify the "Merge" button function
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

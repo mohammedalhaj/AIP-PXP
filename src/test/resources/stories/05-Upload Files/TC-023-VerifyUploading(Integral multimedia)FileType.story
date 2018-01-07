@@ -1,4 +1,4 @@
-Scenario: TC-032-"Verify selecting "Integral multimedia" at a file type
+Scenario: TC-023- Upload file-"Verify selecting "Integral multimedia" at a file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

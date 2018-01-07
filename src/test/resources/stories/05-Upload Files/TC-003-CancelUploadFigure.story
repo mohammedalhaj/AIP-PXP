@@ -1,4 +1,4 @@
-Scenario: TC-003-Verify clicking on cancel button on related "Figure Number" field of "Figure" file type
+Scenario: TC-003- Upload file-Verify clicking on cancel button on related "Figure Number" field of "Figure" file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

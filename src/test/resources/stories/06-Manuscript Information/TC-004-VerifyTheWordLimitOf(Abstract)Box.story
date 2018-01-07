@@ -1,4 +1,4 @@
-Scenario: TC-4-Verify the word limit of "Abstract" Box.
+Scenario: TC-4- Manuscript Information-Verify the word limit of "Abstract" Box.
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

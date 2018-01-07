@@ -1,4 +1,4 @@
-Scenario: TC-012-Verify clicking on cancel button under " Description" field of "Permissions, Concurrence or Alternate Copyright License File" file type
+Scenario: TC-012- Upload file-Verify clicking on cancel button under " Description" field of "Permissions, Concurrence or Alternate Copyright License File" file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

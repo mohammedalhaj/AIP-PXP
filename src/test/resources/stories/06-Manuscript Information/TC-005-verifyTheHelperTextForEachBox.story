@@ -1,4 +1,4 @@
-Scenario: TC-5-verify the Helper text for each box
+Scenario: TC-5- Manuscript Information-verify the Helper text for each box
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

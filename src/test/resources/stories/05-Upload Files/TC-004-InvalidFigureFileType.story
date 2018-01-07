@@ -1,4 +1,4 @@
-Scenario: TC-004-Verify uploading and invalid "Figure" file type
+Scenario: TC-004- Upload file-Verify uploading and invalid "Figure" file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

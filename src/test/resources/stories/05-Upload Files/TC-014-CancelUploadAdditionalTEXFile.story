@@ -1,4 +1,4 @@
-Scenario: TC-014-Verify clicking on cancel button under "Additional TEX File" file type
+Scenario: TC-014- Upload file-Verify clicking on cancel button under "Additional TEX File" file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

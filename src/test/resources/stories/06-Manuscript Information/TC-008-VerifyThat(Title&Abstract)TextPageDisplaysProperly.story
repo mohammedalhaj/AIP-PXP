@@ -1,4 +1,4 @@
-Scenario: TC-8-Verify that "Title/Abstract" text page displays properly.
+Scenario: TC-8- Manuscript Information-Verify that "Title/Abstract" text page displays properly.
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

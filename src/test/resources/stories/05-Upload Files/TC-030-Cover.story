@@ -1,4 +1,4 @@
-Scenario: TC-006-File Type-Cover
+Scenario: TC-030- Upload file-File Type-Cover
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

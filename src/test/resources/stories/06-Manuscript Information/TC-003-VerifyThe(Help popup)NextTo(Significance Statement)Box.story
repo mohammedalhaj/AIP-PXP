@@ -1,4 +1,4 @@
-Scenario: TC-3-Verify the "Help popup" next to  "Significance Statement" box.
+Scenario: TC-3- Manuscript Information-Verify the "Help popup" next to  "Significance Statement" box.
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

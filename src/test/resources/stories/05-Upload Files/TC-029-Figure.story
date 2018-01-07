@@ -1,4 +1,4 @@
-Scenario: TC-005-File Type - Figure
+Scenario: TC-029- Upload file-File Type - Figure
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

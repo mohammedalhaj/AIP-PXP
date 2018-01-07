@@ -1,4 +1,4 @@
-Scenario: TC-016-Verify the (Edit) tool function
+Scenario: TC-016- Upload file-Verify the (Edit) tool function
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

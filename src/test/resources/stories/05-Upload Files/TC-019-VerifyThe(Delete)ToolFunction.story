@@ -1,4 +1,4 @@
-Scenario: TC-019-Verify the  (Delete) tool function
+Scenario: TC-019- Upload file-Verify the  (Delete) tool function
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

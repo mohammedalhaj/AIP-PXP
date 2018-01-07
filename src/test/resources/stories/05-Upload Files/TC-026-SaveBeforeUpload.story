@@ -1,4 +1,4 @@
-Scenario: TC-002-Verify Save and Exit before upload file
+Scenario: TC-026- Upload file-Verify Save and Exit before upload file
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

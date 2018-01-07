@@ -1,4 +1,4 @@
-Scenario: TC-9-Verify that "Title/Abstract" step page contents
+Scenario: TC-9- Manuscript Information-Verify that "Title/Abstract" step page contents
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

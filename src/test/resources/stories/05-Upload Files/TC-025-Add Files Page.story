@@ -1,4 +1,4 @@
-Scenario: TC-001-Verify Add Files Page
+Scenario: TC-025- Upload file-Verify Add Files Page
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

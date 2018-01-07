@@ -1,4 +1,4 @@
-Scenario:  TC-010-File Type - Permission
+Scenario:  TC-034- Upload file-File Type - Permission
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

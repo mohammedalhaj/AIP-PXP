@@ -1,4 +1,4 @@
-Scenario: TC-008-Verify clicking on cancel button on "Title , Description" fields of "Additional Material for Reviewer" file type
+Scenario: TC-008- Upload file-Verify clicking on cancel button on "Title , Description" fields of "Additional Material for Reviewer" file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

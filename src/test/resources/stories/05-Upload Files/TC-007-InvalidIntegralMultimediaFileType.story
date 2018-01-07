@@ -1,4 +1,4 @@
-Scenario: TC-007-Verify clicking on cancel button related "Associated Figure Number , Description" fields
+Scenario: TC-007- Upload file-Verify clicking on cancel button related "Associated Figure Number , Description" fields
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

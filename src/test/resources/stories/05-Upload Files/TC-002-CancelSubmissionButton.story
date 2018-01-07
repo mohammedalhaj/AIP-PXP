@@ -1,4 +1,4 @@
-Scenario: TC-002-Verify clicking on "Cancel submission" button
+Scenario: TC-002- Upload file-Verify clicking on "Cancel submission" button
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

@@ -1,4 +1,4 @@
-Scenario: TC-001-Verify the "submission summary" section at the top left of the page
+Scenario: TC-001- Upload file-Verify the "submission summary" section at the top left of the page
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

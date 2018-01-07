@@ -1,4 +1,4 @@
-Scenario: TC-018-Verify the (Replace) tool function
+Scenario: TC-018- Upload file-Verify the (Replace) tool function
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

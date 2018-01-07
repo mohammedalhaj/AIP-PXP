@@ -1,4 +1,4 @@
-Scenario: TC-005-Verify uploading and invalid files for "Manuscript" type
+Scenario: TC-005- Upload file-Verify uploading and invalid files for "Manuscript" type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

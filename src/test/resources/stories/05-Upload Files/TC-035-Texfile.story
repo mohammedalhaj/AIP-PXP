@@ -1,4 +1,4 @@
-Scenario: TC-012-File Type - Tex_file
+Scenario: TC-035- Upload file-File Type - Tex_file
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

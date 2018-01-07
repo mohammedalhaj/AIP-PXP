@@ -1,4 +1,4 @@
-Scenario: TC-7-Verify Clicking on "Next" button
+Scenario: TC-7- Manuscript Information-Verify Clicking on "Next" button
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

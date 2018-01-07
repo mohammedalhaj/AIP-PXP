@@ -1,4 +1,4 @@
-Scenario: TC-033-Verify clicking on "Upload files" button"
+Scenario: TC-024- Upload file-Verify clicking on "Upload files" button"
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

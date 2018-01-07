@@ -1,4 +1,4 @@
-Scenario: TC-031-Verify selecting "Figure" at a file type
+Scenario: TC-022- Upload file-Verify selecting "Figure" at a file type
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

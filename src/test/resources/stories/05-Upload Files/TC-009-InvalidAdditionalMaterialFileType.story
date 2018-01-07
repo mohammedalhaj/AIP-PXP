@@ -1,4 +1,4 @@
-Scenario: TC-009-Verify entering and invalid files types for  (Additional Material for Reviewer)
+Scenario: TC-009- Upload file-Verify entering and invalid files types for  (Additional Material for Reviewer)
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

@@ -1,4 +1,4 @@
-Scenario: TC-2-Verify the "journal guidelines" link of "Word count estimate" box
+Scenario: TC-2- Manuscript Information-Verify the "journal guidelines" link of "Word count estimate" box
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

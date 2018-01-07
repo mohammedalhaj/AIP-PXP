@@ -1,4 +1,4 @@
-Scenario: TC-011-Verify uploading and invalid files types for "Supplementary Online Material" file
+Scenario: TC-011- Upload file-Verify uploading and invalid files types for "Supplementary Online Material" file
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

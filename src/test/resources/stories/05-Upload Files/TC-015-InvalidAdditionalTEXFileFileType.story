@@ -1,4 +1,4 @@
-Scenario: TC-015-Verify the invalid types for "Additional TEX File" file type (All files types are supported)
+Scenario: TC-015- Upload file-Verify the invalid types for "Additional TEX File" file type (All files types are supported)
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

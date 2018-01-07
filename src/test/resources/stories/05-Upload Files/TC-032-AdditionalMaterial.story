@@ -1,4 +1,4 @@
-Scenario:  TC-008-File Type - Additional Material
+Scenario:  TC-032- Upload file-File Type - Additional Material
 
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

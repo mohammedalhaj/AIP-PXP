@@ -1,4 +1,4 @@
-Scenario: TC-013-Verify the "Permissions, Concurrence or Alternate Copyright License File" file type option file types validation
+Scenario: TC-013- Upload file-Verify the "Permissions, Concurrence or Alternate Copyright License File" file type option file types validation
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

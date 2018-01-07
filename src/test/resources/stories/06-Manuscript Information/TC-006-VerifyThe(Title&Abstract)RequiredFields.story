@@ -1,4 +1,4 @@
-Scenario: TC-6-Verify the "Title/Abstract" required fields.
+Scenario: TC-6- Manuscript Information-Verify the "Title/Abstract" required fields.
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

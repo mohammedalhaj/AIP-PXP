@@ -1,4 +1,4 @@
-Scenario: TC-004-File Type - Article
+Scenario: TC-028- Upload file-File Type - Article
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

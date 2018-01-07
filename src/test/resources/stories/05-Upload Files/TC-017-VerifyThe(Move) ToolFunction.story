@@ -1,4 +1,4 @@
-Scenario: TC-017-Verify the (Move) tool function
+Scenario: TC-017- Upload file-Verify the (Move) tool function
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password

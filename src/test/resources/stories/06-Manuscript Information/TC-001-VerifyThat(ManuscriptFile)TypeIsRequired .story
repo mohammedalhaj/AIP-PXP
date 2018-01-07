@@ -1,4 +1,4 @@
-Scenario: TC-1-Verify that "Manuscript File" type is required 
+Scenario: TC-1- Manuscript Information-Verify that "Manuscript File" type is required 
  
 Given I am on login page
 When I enter Valid_User_Name username and Valid_Password password
